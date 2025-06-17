@@ -42,3 +42,14 @@ Este projeto é uma aplicação web construída com **Flask** que permite o uplo
 
 Antes de executar, é necessário instalar as dependências. Use o comando abaixo:  
 `pip install flask pandas openpyxl`
+
+1 - execute o arquivo .bat:  
+`rodar_servidor`
+
+2 - use os arquivos para upload que estão na pasta:  
+`arquivos_teste`
+
+3 - veja o funcionamento do programa.
+
+
+o programa executa o codigo de leitura de arquivos a cada 3 segundos pois foi pensado em um modelo em que gere um grande fluxo de dados, o consumo desse sistema é cerca de 20 a 50 mb de ram.
