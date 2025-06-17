@@ -40,5 +40,5 @@ Este projeto é uma aplicação web construída com **Flask** que permite o uplo
 
 ### Pré-requisitos
 
-Antes de executar, é necessário instalar as dependências. Use o comando abaixo:
-`pip install -r requirements.txt`
+Antes de executar, é necessário instalar as dependências. Use o comando abaixo:  
+`pip install flask pandas openpyxl`
