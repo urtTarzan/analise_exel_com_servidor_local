@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Arquivos Disponíveis</title>
+</head>
+<body>
+  <div class="container">
+    <h2>Arquivos Disponíveis para Download</h2>
+    <br>
+    <ul>
+        {% for nome in lista_nome_arquivos %}
+        <div class="mini_container">
+            <li>
+                {{ nome }} — <a href="{{ url_for('baixar_arquivo', nome_arquivo=nome) }}">Baixar</a>
+            </li>
+        </div>
+        {% endfor %}
+    </ul>
+    <a href="{{ url_for('home') }}" class="btn">voltar</a>
+    </div>
+</body>
+<style>
+.mini_container{
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: white;
+    border:solid rgb(97, 96, 96) 1px ;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    list-style: none;
+}
+h2 {
+    color: #333;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.container {
+    display: inline-block;
+    padding: 50px;
+    padding-bottom: 80px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+    display: block;
+    width: 250px;
+    margin: 15px auto;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    background-color: #aa2626;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn:hover {
+    background-color: #811414;
+}
+
+</style>
+</html>

@@ -1,0 +1,501 @@
+Nome,CPF,Tipo de Contrato,Status,Valor,Data
+Dr. Pedro Correia,594.237.860-65,CLT,Ativo,14960.23,2022-11-29
+Vitor Gabriel Barbosa,165.783.209-03,PJ,Ativo,3220.99,2023-07-19
+Luigi Pires,918.756.234-00,CLT,Inadimplente,14943.02,2024-01-28
+Milena da Costa,709.682.154-67,CLT,Inadimplente,8727.48,2024-04-09
+Fernanda Costela,146.530.987-00,CLT,Ativo,4763.44,2025-04-06
+Clarice da Cruz,576.148.923-64,CLT,Inadimplente,4377.33,2024-09-22
+Clara Oliveira,824.135.796-64,Estágio,Ativo,9259.58,2024-05-29
+Ana Carolina da Cunha,450.239.617-61,Freelancer,Ativo,15296.74,2025-06-01
+João Pedro Silva,473.590.826-92,PJ,Inadimplente,8740.98,2024-11-29
+Vicente da Cruz,210.978.346-03,Freelancer,Ativo,4698.62,2022-08-26
+Levi Fernandes,147.639.825-91,Freelancer,Ativo,2308.54,2024-06-08
+Sr. Eduardo Costa,059.834.216-89,CLT,Cancelado,17026.14,2023-09-14
+Maria Cecília Rocha,263.508.791-12,Freelancer,Ativo,14729.77,2023-07-03
+Clara Fogaça,820.651.739-12,CLT,Cancelado,2036.6,2023-03-05
+Ana Clara da Rosa,903.147.658-75,Freelancer,Inadimplente,12561.14,2022-08-13
+Lorena Rodrigues,230.169.784-31,Freelancer,Inadimplente,4249.63,2023-12-31
+Dra. Maria Luiza Dias,263.914.578-91,CLT,Ativo,13394.63,2023-10-24
+Luiz Henrique Jesus,126.450.893-05,Freelancer,Ativo,17178.7,2025-02-26
+Gabriel Porto,021.785.934-88,CLT,Cancelado,5920.49,2024-10-11
+Dr. Lorenzo Silveira,536.748.109-48,Freelancer,Ativo,7718.53,2022-09-28
+Enzo Gabriel Freitas,589.620.471-01,PJ,Inadimplente,5706.07,2022-11-30
+Marcela Lopes,460.982.713-13,CLT,Inadimplente,12882.08,2025-01-09
+Srta. Isabella Rezende,509.361.,PJ,Ativo,9514.07,2023-09-17
+Vitor Hugo Rezende,784.056.193-48,Freelancer,Inadimplente,13919.16,2023-08-17
+Sra. Beatriz da Paz,526.374.901-52,PJ,Inadimplente,6823.51,2023-09-28
+Sr. Yago Porto,057.196.324-25,CLT,Ativo,16525.15,2023-01-20
+Maria Clara Costa,672.190.348-22,Freelancer,Cancelado,5720.95,2024-08-31
+Lorena Gonçalves,845.023.719-04,PJ,Inadimplente,17589.17,2022-08-05
+Kaique Cardoso,869.437.501-00,Freelancer,Ativo,13281.05,2023-07-03
+Caroline Silveira,567.839.204-29,Estágio,Inadimplente,9447.61,2024-03-30
+Sr. Luiz Otávio da Luz,293.708.146-04,Freelancer,Ativo,5309.24,2022-08-16
+Bruno da Conceição,685.421.039-98,Freelancer,Inadimplente,11899.43,2024-11-23
+Isaac Jesus,672.304.589-00,Estágio,Cancelado,4776.75,2023-06-03
+Sra. Ana Clara Ramos,230.187.596-21,PJ,Inadimplente,10123.56,2022-08-08
+Rafaela da Mata,182.465.730-71,CLT,Ativo,3480.41,2023-10-21
+Letícia Alves,109.473.856-57,PJ,Inadimplente,8732.12,2023-06-15
+Calebe Ramos,736.912.540-80,CLT,Cancelado,7941.58,2025-01-18
+Pedro Fogaça,439.685.170-75,Estágio,Inadimplente,5402.58,2024-05-15
+Camila Fernandes,431.729.608-03,CLT,Inadimplente,14554.08,2024-09-29
+Igor Cavalcanti,586.104.237-35,Freelancer,Inadimplente,7133.42,2025-01-25
+Lorena Campos,013.985.267-03,Freelancer,Cancelado,3584.08,2023-05-08
+Ana Julia Teixeira,250.648.713-17,CLT,Inadimplente,17579.13,2023-04-10
+Arthur Moraes,985.620.173-02,Freelancer,Inadimplente,15358.26,2025-04-24
+Raul da Cruz,349.251.087-60,CLT,Inadimplente,6319.67,2024-04-09
+Sr. Gustavo Henrique Souza,174.083.259-05,PJ,Ativo,7791.32,2023-11-10
+Ana Júlia da Conceição,163.507.942-06,PJ,Inadimplente,19093.25,2024-07-10
+Alexia Viana,247.861.039-69,CLT,Inadimplente,6821.04,2022-06-29
+Daniel Nogueira,830.916.724-50,CLT,Ativo,18617.42,2023-08-02
+Cecília Oliveira,284.513.097-04,Freelancer,Ativo,1629.54,2022-12-01
+Enrico Novaes,398.076.415-00,CLT,Ativo,14772.2,2022-11-29
+Sra. Larissa da Rosa,240.176.583-26,CLT,Inadimplente,15433.77,2024-09-01
+Juan Porto,184.760.593-10,PJ,Inadimplente,9768.01,2024-07-08
+Giovanna Campos,218.790.346-03,PJ,Cancelado,10789.64,2024-07-24
+Maria Fernanda Silva,605.798.243-65,Estágio,Ativo,18613.81,2024-07-07
+Vitor Hugo Nunes,148.379.502-05,PJ,Inadimplente,6578.47,2022-08-29
+Clarice Farias,721.084.536-44,Freelancer,Cancelado,18042.47,2023-03-13
+Vitor Hugo Campos,436.712.908-03,Estágio,Ativo,5334.16,2024-05-27
+Sra. Bárbara Sales,327.501.986-40,CLT,Cancelado,910.17,2024-10-21
+Levi Cardoso,134.528.679-19,PJ,Inadimplente,4794.24,2025-04-06
+Marcela Cavalcanti,975.601.382-68,CLT,Inadimplente,12806.51,2022-08-01
+Alícia Barros,375.160.298-40,PJ,Ativo,18155.69,2024-11-17
+Lucas Gabriel Rodrigues,738.620.415-90,Freelancer,Ativo,10526.04,2023-11-18
+Calebe Barros,053.172.948-60,Freelancer,Inadimplente,9965.58,2024-07-16
+Otávio Ferreira,621.405.973-70,PJ,Inadimplente,18742.53,2023-05-04
+Juan da Paz,830.476.912-31,Estágio,Ativo,15800.08,2024-11-16
+Yago Caldeira,295.417.038-79,Estágio,Ativo,2339.35,2022-09-01
+Nina Melo,734.291.605-61,Estágio,Cancelado,8759.78,2023-09-06
+Pedro Henrique Aragão,682.037.519-03,Estágio,Inadimplente,1556.34,2023-09-21
+Brenda da Luz,987.465.012-58,CLT,Ativo,8351.12,2025-06-01
+Sra. Evelyn Jesus,398.275.064-47,Freelancer,Ativo,5348.8,2023-10-17
+Bárbara da Mota,328.549.670-38,PJ,Inadimplente,9247.96,2024-05-05
+Marina Campos,982.615.743-00,Estágio,Ativo,5931.63,2025-02-24
+João Felipe da Cruz,827.130.549-23,PJ,Ativo,9141.05,2023-12-29
+Enzo Aragão,051.897.624-67,CLT,Ativo,13216.83,2024-04-26
+Kamilly Rocha,139.726.450-07,CLT,Ativo,18564.16,2025-01-14
+Renan da Costa,483.917.562-46,PJ,Ativo,8425.07,2025-05-25
+Luiz Otávio Vieira,136.425.907-99,Estágio,Ativo,17360.68,2024-10-08
+Raul Sales,751.293.804-79,CLT,Ativo,7889.98,2023-09-07
+Julia Monteiro,912.584.673-64,Estágio,Cancelado,18567.1,2023-01-31
+Helena Santos,965.813.702-40,Estágio,Cancelado,8748.65,2023-12-05
+Emilly Almeida,360.729.458-56,Estágio,Ativo,4203.01,2025-06-01
+Henrique Rodrigues,927.460.583-83,PJ,Ativo,11794.02,2023-10-14
+Luiz Gustavo Costela,309.865.714-66,CLT,Inadimplente,6615.29,2024-03-07
+Thales Moreira,839.570.64,CLT,Inadimplente,9797.38,2024-06-27
+Sra. Bianca Cardoso,957.104,PJ,Ativo,19235.19,2022-07-31
+Julia Pereira,261.490.357-43,CLT,Ativo,1836.17,2023-10-08
+Noah Pereira,420.165.397-80,CLT,Inadimplente,17305.47,2024-08-13
+Srta. Laís Almeida,189.436.527-55,Estágio,Ativo,18861.12,2023-07-30
+Dr. Vitor Silveira,927.631.458-09,PJ,Inadimplente,12093.12,2025-01-18
+Clarice Dias,213.960.758-95,CLT,Cancelado,13318.78,2023-01-26
+Luiza Azevedo,302.467.918-96,Freelancer,Cancelado,4483.05,2023-02-03
+Samuel Rocha,843.952.061-15,Freelancer,Ativo,5679.48,2025-03-19
+Eloah Caldeira,730.489.61,PJ,Inadimplente,13087.27,2023-12-23
+Caio Campos,735.620.894-65,Estágio,Cancelado,18615.86,2023-06-17
+Nicole Rezende,980.134.562-42,CLT,Ativo,9436.57,2024-12-30
+Vitor Oliveira,762.943.051-52,CLT,Ativo,10983.87,2024-03-12
+Eduarda Silveira,962.870.431-13,Freelancer,Ativo,18698.56,2022-06-22
+Sra. Olivia Pereira,192.807.536-30,CLT,Ativo,7705.78,2023-02-21
+Davi Lucas Cardoso,267.958.140-76,PJ,Cancelado,16758.03,2024-02-07
+Sra. Ana Sophia Duarte,569.,Freelancer,Inadimplente,19685.14,2023-07-07
+Cecília da Rosa,825.169.370-59,CLT,Inadimplente,16433.53,2024-10-06
+Isis das Neves,730.291.584-97,Freelancer,Inadimplente,2519.94,2023-05-23
+Vicente Rodrigues,875.409.612-01,PJ,Cancelado,2750.86,2023-02-16
+Helena Cardoso,728.963.051-30,CLT,Inadimplente,11287.86,2023-08-28
+Isaac Lima,724.135.986-00,Freelancer,Cancelado,12294.18,2023-07-20
+Maysa Cavalcanti,642.910.375-70,Freelancer,Ativo,13906.19,2024-10-30
+Isadora Pires,509.628.314-33,Freelancer,Inadimplente,10026.37,2023-09-09
+Clarice Barbosa,814.732.506-17,CLT,Ativo,12868.55,2023-02-21
+João Vitor Farias,674.218.930-40,Freelancer,Ativo,569.14,2023-09-08
+Maysa Peixoto,869.753.041-57,PJ,Inadimplente,19606.06,2023-07-19
+Dra. Emanuelly Barros,964.785.310-66,PJ,Inadimplente,9115.79,2024-07-23
+Diego Novaes,513.408.276-62,Estágio,Inadimplente,688.56,2022-10-15
+Emanuel Moura,019.623.748-31,CLT,Inadimplente,18126.61,2023-08-01
+Isabel Silva,274.930.861-50,CLT,Cancelado,11858.94,2022-11-12
+Emanuelly Nunes,687.945.013-00,PJ,Cancelado,2985.19,2025-04-23
+Pietra Nascimento,218.467.395-19,Freelancer,Cancelado,18030.14,2022-12-12
+Diogo Vieira,795.361.402-25,CLT,Cancelado,4596.49,2024-11-07
+Sra. Manuela Fogaça,819.520.736-77,PJ,Inadimplente,2504.48,2022-09-24
+Nina Correia,631.908.745-57,Estágio,Inadimplente,15114.81,2024-09-22
+João Vitor da Mota,946,PJ,Ativo,19536.02,2024-01-28
+Gabrielly Correia,938.540.762-74,PJ,Cancelado,983.33,2022-07-07
+Kevin Oliveira,640.8,Freelancer,Cancelado,16143.59,2022-12-01
+Maysa das Neves,123,PJ,Cancelado,3604.36,2022-11-30
+Davi Barbosa,032.981.657-86,CLT,Cancelado,17507.25,2025-05-19
+Emanuella Moraes,073.912.845-05,Estágio,Ativo,4391.67,2022-08-06
+Emanuel Costa,483.159.627-28,Estágio,Cancelado,6451.22,2024-02-23
+Maitê Cavalcanti,512.786.340-53,PJ,Ativo,961.46,2024-02-29
+Luana Caldeira,297.563.048-47,PJ,Cancelado,6901.11,2023-03-27
+Elisa Fernandes,756.324.809-92,CLT,Cancelado,7347.35,2022-06-08
+Emanuelly Cardoso,325.108.974-97,Estágio,Inadimplente,19632.42,2024-04-16
+Evelyn Pinto,614.738.529-19,Freelancer,Ativo,2749.16,2022-10-05
+Isaac da Luz,840.537.916-93,Freelancer,Ativo,11821.5,2023-03-08
+Milena da Costa,248.153.069-15,Freelancer,Ativo,2613.85,2022-07-16
+Maysa Correia,354.102.876-90,Estágio,Cancelado,14706.63,2022-12-06
+João Ferreira,546.098.123-98,Freelancer,Cancelado,12321.07,2022-07-30
+Theo Cavalcanti,801.467.539-84,CLT,Cancelado,18040.34,2024-04-23
+Davi Cavalcanti,792.481.653-46,PJ,Cancelado,1365.54,2023-04-01
+Dra. Juliana da Luz,796.514.208-20,Estágio,Ativo,10638.45,2024-01-10
+Yuri das Neves,675.029.483-92,PJ,Cancelado,8910.3,2022-12-06
+Breno das Neves,610.493.758-66,Freelancer,Inadimplente,6621.36,2023-06-04
+Nicolas Ferreira,510.397.268-95,CLT,Inadimplente,18050.91,2022-12-26
+Valentina da Rocha,980.472.135-04,Freelancer,Inadimplente,8463.66,2025-06-01
+João Lucas Sales,206.194.758-11,Estágio,Inadimplente,6265.28,2022-08-25
+Marcos Vinicius Lima,768.340.915-48,PJ,Ativo,8698.7,2024-12-06
+Maria Clara Vieira,902.817.456-76,Estágio,Inadimplente,15088.62,2024-09-11
+Isadora Alves,517.623.0,PJ,Inadimplente,11597.55,2024-03-28
+Vinicius Oliveira,945.610.372-25,Estágio,Inadimplente,16757.64,2024-05-24
+Luiz Fernando Cardoso,286.415.307-62,Freelancer,Cancelado,4598.56,2024-06-05
+Rafael Aragão,837.154.206-26,Freelancer,Cancelado,9114.83,2022-10-13
+Júlia Nogueira,512.870.643-53,PJ,Inadimplente,9727.13,2024-11-26
+Luiz Otávio Nogueira,716.209.438-40,PJ,Inadimplente,2153.51,2022-07-15
+Renan Castro,598.261.073-95,Freelancer,Ativo,16459.26,2023-12-26
+Valentina Alves,096.514.872-67,PJ,Inadimplente,6553.18,2024-02-26
+Dra. Amanda Monteiro,839.645.207-56,PJ,Ativo,976.3,2024-02-13
+Sofia Vieira,274.038.695-83,PJ,Cancelado,12419.84,2024-12-17
+Sra. Fernanda Cardoso,129.605.374-16,CLT,Cancelado,8581.6,2024-02-23
+Sr. Thiago Carvalho,706.219.853-68,PJ,Inadimplente,14078.91,2024-02-14
+Larissa Farias,390.165.284-15,Estágio,Cancelado,5257.7,2022-11-01
+Leandro Santos,765.824.1,CLT,Ativo,15679.2,2025-04-30
+Enrico Barbosa,496.513.270-06,PJ,Ativo,16180.14,2023-02-07
+Alexandre Gomes,316.795.842-19,Estágio,Ativo,11369.41,2023-11-04
+Davi Lucca Moreira,079.432.586-65,CLT,Cancelado,3100.11,2024-09-03
+Eduardo Cardoso,201.643.875-44,Estágio,Inadimplente,10857.07,2025-02-13
+Antônio Cardoso,016.975.243-70,Freelancer,Cancelado,12446.72,2024-08-03
+Matheus Novaes,421.685.073-17,Estágio,Inadimplente,9195.32,2023-05-10
+João Barros,417.928.530-41,PJ,Inadimplente,17299.15,2023-06-04
+Emilly Almeida,682.047.195-58,Estágio,Cancelado,15159.65,2022-09-04
+Sra. Julia da Costa,054.129.873-97,Freelancer,Inadimplente,9949.64,2023-12-10
+Valentina Fogaça,270.548.631-35,PJ,Cancelado,9077.52,2024-07-22
+Ian Lima,536.201.849-33,Freelancer,Ativo,5798.44,2023-10-21
+João Miguel da Mata,379.146.208-31,Freelancer,Inadimplente,2071.26,2025-03-07
+Paulo Campos,849.710.652-02,PJ,Ativo,7969.19,2024-02-06
+Dr. Luiz Felipe Ribeiro,357.914.682-37,PJ,Inadimplente,4672.08,2025-04-13
+Ana Beatriz Rodrigues,831.576.490-00,Estágio,Cancelado,6952.19,2023-12-04
+Srta. Emilly Novaes,452.613.807-07,Estágio,Cancelado,1714.18,2022-06-30
+Isaac Silveira,405.291.736-70,Estágio,Cancelado,18144.35,2025-04-08
+Vitor Gabriel Moreira,328.045.916-89,CLT,Inadimplente,7917.43,2025-02-28
+Pedro Miguel Araújo,239.870.416-50,CLT,Cancelado,6322.95,2022-09-16
+Gabrielly Nascimento,426.159.037-99,Estágio,Cancelado,10995.3,2024-08-11
+Caio Porto,295.136.748-19,PJ,Cancelado,4778.72,2023-02-01
+Dra. Alexia Jesus,124.763.890-13,Estágio,Cancelado,1065.98,2023-01-02
+Dr. Yuri das Neves,780.261.954-85,Freelancer,Inadimplente,13743.27,2022-10-30
+Lara Fernandes,537.046.829-00,Estágio,Inadimplente,3718.37,2025-03-20
+Isadora Pereira,438.679.120-50,Estágio,Ativo,19624.08,2022-10-18
+Noah Viana,268.049.317-69,CLT,Cancelado,12041.91,2023-06-29
+Srta. Joana Porto,928.750.413-04,CLT,Ativo,13033.62,2025-03-25
+Yasmin da Rocha,298.,PJ,Cancelado,4043.72,2025-01-16
+Bernardo Campos,539.726.804-65,Freelancer,Cancelado,6883.38,2022-11-10
+Marcela Castro,982.017.,Estágio,Cancelado,7081.26,2022-08-11
+Clarice da Mota,825.407.691-01,Estágio,Cancelado,15164.19,2025-01-12
+Luigi Mendes,503.481.976-75,Estágio,Cancelado,16780.76,2023-06-11
+Dra. Alice da Conceição,645.329.807-47,Estágio,Ativo,15105.97,2024-08-06
+Cauê Aragão,536.812.940-89,CLT,Cancelado,4872.33,2023-03-23
+Kaique Caldeira,785.920.631-59,CLT,Inadimplente,1285.03,2024-08-08
+Pietro Sales,763.492.105-06,CLT,Ativo,4387.53,2025-03-16
+Ana Lívia Rezende,028.371.649-50,CLT,Inadimplente,3471.46,2024-05-26
+Nicolas Novaes,870.346.591-84,PJ,Cancelado,13554.45,2025-05-10
+Otávio Cavalcanti,245.831.697-28,PJ,Cancelado,14139.57,2023-06-15
+Fernanda Azevedo,235.987.061-03,Freelancer,Ativo,12314.91,2024-08-08
+Ana Gonçalves,874.235.910-41,CLT,Ativo,19312.06,2025-05-07
+Srta. Nicole Azevedo,508.476.921-67,CLT,Inadimplente,1000.73,2023-07-19
+Maria Fernanda Cavalcanti,243.798.516-64,Freelancer,Inadimplente,13708.27,2022-08-01
+Henrique Barbosa,579.380.614-84,Estágio,Cancelado,18858.68,2024-08-18
+Alexia Farias,918.503.624-24,PJ,Ativo,12045.91,2024-02-05
+Bianca Cunha,134.596.802-70,PJ,Ativo,14095.26,2024-04-14
+Clarice Almeida,280.196.534-06,Freelancer,Inadimplente,12208.03,2022-11-20
+Dr. Kaique Moura,701.289.645-02,CLT,Inadimplente,15761.39,2025-01-24
+Lara Farias,342.857.069-38,Freelancer,Inadimplente,8853.37,2023-10-05
+João Silva,536.148.072-07,Freelancer,Ativo,10366.24,2024-11-16
+Dra. Laís Moraes,279.451.306-07,Freelancer,Ativo,17066.72,2022-10-29
+Gabrielly Azevedo,274.,Estágio,Ativo,8953.71,2024-08-16
+Carolina Carvalho,460.295.183-05,Freelancer,Inadimplente,17885.71,2023-07-26
+Giovanna Campos,357.809.621-03,Estágio,Inadimplente,3483.33,2025-04-04
+Igor Rocha,739.064.812-04,PJ,Inadimplente,10674.06,2023-03-08
+Sarah Barros,830.964.275-00,Freelancer,Inadimplente,16259.88,2023-03-13
+Vinicius Costela,247.318.596-46,Estágio,Cancelado,8993.7,2024-10-16
+Davi Lucas Duarte,234.691.780-03,Freelancer,Cancelado,17108.41,2024-08-01
+Evelyn Mendes,986.035.741-20,CLT,Cancelado,17691.81,2022-11-02
+Levi Duarte,801.694.532-51,PJ,Cancelado,11612.07,2024-12-21
+Dr. João Lucas Freitas,735.406.281-26,Estágio,Cancelado,1059.65,2023-10-08
+Renan Correia,291.578.340-32,Freelancer,Ativo,10007.22,2023-04-28
+Dra. Maria Sophia Rocha,861.072.594-49,Freelancer,Cancelado,7136.61,2024-03-10
+Lucas Azevedo,504.286.391-51,Freelancer,Inadimplente,697.95,2022-12-15
+Yasmin Gonçalves,278.963.510-21,PJ,Ativo,5206.44,2022-11-09
+Sr. Enrico Dias,278.915.40,Estágio,Cancelado,11325.94,2025-02-13
+Emanuella Farias,476.920.358-65,PJ,Inadimplente,9783.82,2023-02-13
+Ana Beatriz da Rocha,697.210.534-06,Estágio,Cancelado,15962.19,2024-02-17
+Renan Almeida,132.504.69,CLT,Cancelado,4821.13,2024-08-20
+Bryan da Mata,943.152.086-98,PJ,Cancelado,13447.22,2024-08-06
+Marina Peixoto,029.453.,Freelancer,Cancelado,11292.72,2022-08-11
+Cecília Mendes,135.462.908-60,Freelancer,Cancelado,19934.31,2023-08-30
+Heitor Pinto,206.198.457-67,Freelancer,Cancelado,14205.67,2023-12-02
+Joana da Cruz,025.716.348-44,Freelancer,Cancelado,5402.37,2023-03-08
+Isabelly Barros,014.375.689-39,CLT,Inadimplente,4255.39,2024-12-28
+Cauã Nunes,602.934.851-51,CLT,Inadimplente,10949.35,2025-01-04
+Dr. João Vitor Sales,149.385.627-82,PJ,Ativo,4719.5,2023-03-09
+Benjamin Porto,540.837.621-44,Estágio,Cancelado,14629.41,2023-03-21
+Fernando Sales,146.053.872-26,Freelancer,Ativo,16736.25,2023-02-08
+Davi Lucas Moreira,642.038.597-00,Freelancer,Ativo,7537.18,2024-01-10
+Srta. Joana Santos,706.921.435-99,Freelancer,Ativo,14306.36,2024-02-01
+Benício Mendes,123.70,PJ,Cancelado,1387.56,2023-03-11
+Lucas da Luz,619.302.458-15,CLT,Inadimplente,6196.66,2023-09-24
+Marina Castro,407.598.136-39,PJ,Inadimplente,17434.99,2022-06-11
+Luigi da Costa,492.086.175-30,Estágio,Ativo,17518.03,2022-09-11
+Luiza Novaes,268.403.179-78,Freelancer,Cancelado,9834.93,2023-12-24
+Ana Vitória Nunes,156.734.289-28,Freelancer,Ativo,19327.2,2025-01-02
+Caroline Fogaça,192.357.064-16,Freelancer,Cancelado,2724.7,2024-12-03
+Caroline da Rocha,649.208.137-40,CLT,Cancelado,10089.06,2024-08-16
+Laura Jesus,213.754.698-19,CLT,Ativo,3409.35,2025-04-07
+Danilo Pinto,324.706.981-03,Freelancer,Ativo,19881.4,2024-02-20
+Ana Júlia Monteiro,625.409.831-89,CLT,Inadimplente,15406.65,2024-02-28
+Renan Viana,274.580.639-47,PJ,Inadimplente,7917.37,2025-04-05
+Theo da Mota,748.693.150-84,Estágio,Cancelado,17273.25,2023-04-25
+Milena Porto,832.164.790-13,Estágio,Cancelado,11588.27,2024-06-29
+João Guilherme Novaes,457.189.360-48,CLT,Inadimplente,19222.12,2023-10-16
+Pedro Henrique Lima,472.158.369-91,CLT,Ativo,12697.54,2024-01-11
+Raul da Paz,149.038.625-42,Freelancer,Inadimplente,2083.16,2024-01-03
+Lorena Farias,439.801.572-88,PJ,Ativo,11263.85,2023-11-13
+Enrico Cunha,085.462.793-65,PJ,Ativo,8466.09,2025-03-19
+Miguel da Cunha,617.432.980-13,Estágio,Cancelado,1136.48,2022-06-28
+Beatriz Vieira,079.348.615-75,Freelancer,Inadimplente,6013.01,2024-04-01
+Luiz Henrique Caldeira,340.519.628-06,Estágio,Ativo,13904.01,2023-05-09
+Pietro Peixoto,418.623.795-64,Freelancer,Inadimplente,12000.9,2023-04-25
+Benício Lopes,840.912.375-41,PJ,Cancelado,2738.14,2025-01-08
+Luna Azevedo,635.241.790-61,PJ,Inadimplente,3405.29,2024-03-05
+Luiza da Rosa,831.645.209-05,Freelancer,Ativo,1892.49,2024-11-16
+Guilherme Farias,659.387.042-00,PJ,Cancelado,12103.36,2024-04-15
+Ana Laura Nogueira,043.762.581-80,Freelancer,Cancelado,2924.9,2022-10-19
+Bruno Cardoso,264.179.380-69,Freelancer,Inadimplente,8348.92,2023-12-07
+Yuri Alves,129.680.345-70,Freelancer,Inadimplente,11029.64,2024-09-20
+Alana Pinto,203.879.516-95,Estágio,Ativo,12161.71,2023-01-23
+Erick da Paz,186.925.073-77,Estágio,Inadimplente,6785.27,2023-10-16
+Fernanda Pinto,968.542.731-37,Freelancer,Ativo,2280.87,2024-10-09
+Ana Lívia da Mota,726.105.9,CLT,Inadimplente,16517.71,2023-12-26
+Enzo Correia,215.607.943-99,CLT,Ativo,9674.77,2022-08-30
+Agatha Oliveira,857.124.036-17,Estágio,Cancelado,4039.04,2022-11-10
+Erick Nunes,375.682.910-30,Estágio,Inadimplente,16377.78,2023-12-31
+Maria Eduarda Monteiro,163.824.759-55,CLT,Cancelado,7285.24,2023-06-08
+Sra. Vitória Novaes,185.409.276-67,Freelancer,Cancelado,13567.6,2024-01-29
+Miguel Cardoso,237.451.680-62,PJ,Cancelado,8527.08,2023-07-08
+Marcela Rocha,731.846.590-20,Estágio,Cancelado,13420.38,2025-04-16
+Maria Cunha,291.075.384-05,Estágio,Inadimplente,1215.59,2024-07-31
+Sr. Paulo Nascimento,479.302.618-40,CLT,Cancelado,5421.78,2022-10-25
+Davi Lucca Nascimento,645.231.078-07,CLT,Cancelado,17365.76,2023-06-01
+Matheus Silva,326.904.581-60,CLT,Inadimplente,17452.67,2023-08-13
+Marcelo da Cunha,168.274.053-62,Estágio,Cancelado,1556.98,2023-07-09
+Eloah da Mata,957.862.410-76,Freelancer,Inadimplente,15250.64,2023-11-15
+Dra. Luiza Ramos,753.821.406-26,Estágio,Ativo,4469.39,2022-11-01
+Dra. Melissa Pereira,428.561.370-08,PJ,Cancelado,9043.26,2024-01-07
+Srta. Raquel Gonçalves,489.251.367-91,Estágio,Ativo,1062.95,2023-08-16
+Lavínia Aragão,653.872.091-95,PJ,Inadimplente,3588.37,2023-11-25
+Vitor Gabriel Cunha,073.526.481-35,CLT,Inadimplente,8455.82,2023-06-28
+Sra. Milena Costela,798.250.,PJ,Ativo,9498.23,2024-09-27
+Caio Campos,623.450.719-07,CLT,Inadimplente,16726.79,2024-06-21
+Ana Carolina Costela,930.624.718-40,Estágio,Inadimplente,6191.3,2024-01-18
+Bruno Peixoto,985.074.231-32,Freelancer,Cancelado,16777.12,2022-09-12
+Maria Fernanda Monteiro,059.478.263-56,Estágio,Ativo,9407.34,2023-01-10
+Daniel Moura,608.413.275-80,PJ,Cancelado,4216.9,2024-07-05
+Raquel da Mata,782.469.351-19,PJ,Ativo,5886.82,2025-01-12
+Gabrielly Campos,862.041.539-51,Estágio,Cancelado,18717.84,2022-06-15
+Kaique Nogueira,350.827.946-47,Freelancer,Ativo,6015.36,2025-01-26
+Srta. Rebeca Azevedo,463.981.527-19,Freelancer,Inadimplente,11808.51,2023-07-17
+Ana Júlia da Rosa,527.843.196-28,Estágio,Ativo,9207.67,2022-08-30
+Emilly da Cruz,419.752.063-80,Estágio,Cancelado,6982.58,2023-12-15
+Sarah Nunes,253.194.078-23,Estágio,Cancelado,18690.62,2022-08-29
+Paulo Souza,216.305.948-06,PJ,Inadimplente,5156.71,2025-05-17
+Dr. Cauê Gomes,793.625.804-38,Estágio,Ativo,17192.25,2023-10-13
+Ana Júlia Caldeira,091.728.345-79,Estágio,Ativo,6704.44,2023-07-15
+Srta. Nina Barros,826.450.139-70,Estágio,Inadimplente,18311.89,2025-03-11
+Nathan Barros,725.604.193-43,Estágio,Cancelado,19774.07,2024-05-30
+Maria Julia Rodrigues,729.035.168-12,PJ,Cancelado,19314.08,2022-07-11
+Amanda Costela,058.612.943-05,PJ,Inadimplente,19324.4,2023-09-09
+Henrique Jesus,264.5,Freelancer,Ativo,17546.71,2023-01-20
+Gabriela Pires,032.681.957-68,Estágio,Ativo,10756.05,2023-06-07
+Bárbara Freitas,481.260.375-71,Estágio,Ativo,14587.65,2023-08-30
+Agatha Nascimento,037.415.829-05,Estágio,Inadimplente,19414.16,2025-05-31
+Daniel da Costa,268.041.397-04,CLT,Cancelado,15739.74,2022-09-02
+Maria Fernanda Dias,405.678.932-00,Freelancer,Cancelado,12653.56,2025-05-09
+Francisco Campos,763.140.925-07,Estágio,Inadimplente,2066.15,2025-03-03
+Helena Sales,135.8,Freelancer,Inadimplente,17257.17,2022-08-26
+Anthony Rocha,819.740.526-30,Estágio,Cancelado,12722.58,2025-01-07
+Thales Araújo,903.487.261-04,Estágio,Inadimplente,1200.03,2023-09-23
+Marcela Martins,490.681.523-51,CLT,Ativo,12807.64,2022-09-11
+Nina Correia,910.237.568-03,Freelancer,Ativo,15061.94,2024-07-13
+Sophie Campos,061.328.549-24,Estágio,Ativo,15327.21,2022-10-21
+Gustavo Nunes,540.982.176-94,CLT,Cancelado,3744.11,2023-05-23
+João Pedro Novaes,270.859.641-11,Freelancer,Ativo,1396.82,2024-05-01
+Lavínia Cunha,231.408.769-04,CLT,Cancelado,7490.04,2025-02-25
+Fernanda Aragão,592.836.017-77,Estágio,Ativo,5261.85,2022-08-04
+Enzo Gabriel Moura,592.370.146-43,Estágio,Inadimplente,13795.11,2023-07-19
+Sophia Pires,542.130.987-88,PJ,Ativo,3913.85,2024-11-10
+André Correia,361.098.247-04,Estágio,Inadimplente,13821.12,2022-08-07
+Dra. Catarina Peixoto,940.385.176-75,Estágio,Inadimplente,3290.8,2023-05-13
+João Lucas Dias,724.859.013-41,Estágio,Inadimplente,5452.56,2024-02-21
+Melissa Viana,276.495.013-61,Freelancer,Inadimplente,683.25,2024-12-10
+Dr. Bernardo Vieira,349.587.216-73,Estágio,Cancelado,13713.41,2024-04-26
+Brenda Lopes,792.546.813-00,PJ,Ativo,9113.73,2024-11-12
+Sarah Barros,308.924.751-88,Freelancer,Inadimplente,6333.51,2022-09-07
+Vitória Rodrigues,930.456.721-16,Estágio,Inadimplente,5376.92,2024-05-03
+Dr. Emanuel Ramos,214.763.980-03,Freelancer,Ativo,19987.78,2024-01-13
+Sophie Pires,836.917.025-03,Estágio,Ativo,5125.51,2023-05-22
+Lorenzo Rocha,047.158.623-44,Freelancer,Inadimplente,6269.51,2023-09-02
+Nicolas Costa,357.906.182-86,Freelancer,Ativo,19569.92,2024-05-15
+Sabrina Moraes,137.265.940-43,Estágio,Cancelado,657.91,2023-04-26
+Miguel Souza,764.258.103-35,CLT,Inadimplente,15030.86,2022-08-07
+Alana Costa,250.816.379-12,Freelancer,Ativo,12337.77,2023-08-03
+Lucca Correia,547.190,Freelancer,Ativo,12914.05,2023-06-11
+Clarice Peixoto,509.14,Freelancer,Inadimplente,15233.76,2022-11-25
+João da Costa,149.587.032-41,PJ,Inadimplente,2394.7,2022-09-21
+Srta. Ana Cavalcanti,439.058.621-15,CLT,Cancelado,15877.9,2023-06-26
+Amanda Cunha,573.126.904-16,CLT,Inadimplente,7614.79,2022-07-28
+Caroline da Rocha,853.069.721-95,PJ,Ativo,18237.74,2025-02-01
+Bernardo Oliveira,534.792.108-05,Freelancer,Inadimplente,8602.31,2023-07-02
+Sra. Isabella da Rosa,174.296.538-55,PJ,Ativo,15837.0,2022-12-29
+Heitor Cardoso,214.597.3,Freelancer,Inadimplente,10285.0,2022-12-17
+Sofia Ramos,479.163.850-66,Freelancer,Ativo,5510.92,2024-12-06
+Lucas Gabriel Teixeira,328.461.907-04,Estágio,Cancelado,15057.91,2023-07-18
+Srta. Stephany Moura,148.932.650-24,Freelancer,Ativo,9632.46,2024-08-24
+Maria Vitória Campos,934.261.850-24,CLT,Ativo,15205.95,2023-11-24
+Sr. Rodrigo Oliveira,130.286.495-51,PJ,Inadimplente,14622.23,2024-05-05
+Sra. Catarina Souza,217.083.496-69,Estágio,Inadimplente,7632.61,2025-04-25
+Maria Luiza Jesus,415.690.738-48,Estágio,Ativo,5656.94,2024-09-30
+Valentina Rezende,289.160.437-78,CLT,Cancelado,7687.42,2024-08-20
+Laura Rocha,904.352.817-04,Freelancer,Inadimplente,7930.0,2023-03-03
+Vitor Hugo Souza,095.286.314-60,Freelancer,Ativo,13659.31,2023-10-21
+Luiza Rezende,859.460.127-11,Estágio,Ativo,12581.16,2025-01-26
+Maria Fernanda da Luz,517.923.684-37,Freelancer,Inadimplente,4816.66,2022-09-23
+Rodrigo Silva,012.345.798-04,CLT,Inadimplente,16565.18,2023-01-15
+Cecília Lima,406.,Freelancer,Inadimplente,8461.77,2024-12-21
+Valentina Nascimento,768,PJ,Ativo,18952.1,2023-11-19
+Antônio da Rosa,926.157.438-64,Freelancer,Cancelado,2764.35,2023-07-21
+Lucas Gabriel Ribeiro,271.843.096-69,PJ,Inadimplente,3145.45,2023-06-15
+Alexandre Jesus,821.706.935-21,Estágio,Cancelado,13574.48,2024-03-02
+Alexia Barros,805.361.927-40,Estágio,Inadimplente,14974.25,2024-03-13
+Helena Rezende,054.963.278-65,PJ,Cancelado,13270.98,2023-08-27
+Leonardo Ferreira,482.759.103-23,Estágio,Inadimplente,8458.26,2025-04-23
+Sofia Cardoso,410.382.695-98,Freelancer,Ativo,13960.47,2025-03-30
+Sabrina Monteiro,081.264.593-60,PJ,Cancelado,9171.57,2023-06-14
+Srta. Giovanna da Luz,458.907.612-85,PJ,Cancelado,2437.42,2024-05-09
+Sr. Lucca Dias,027.359.184-32,Freelancer,Inadimplente,18083.08,2022-11-19
+Alice Cardoso,314.960.825-24,Freelancer,Ativo,8263.72,2024-08-15
+Srta. Ana Luiza Martins,621.095.378-68,PJ,Ativo,19005.71,2024-03-12
+Caio Rocha,647.250.813-53,Estágio,Ativo,13423.99,2022-10-30
+Julia Duarte,918.37,CLT,Ativo,15842.49,2022-11-04
+Dra. Mariane Ferreira,934.687.520-83,PJ,Ativo,15846.07,2024-06-12
+Thomas Moura,580.,PJ,Ativo,16681.45,2023-04-16
+Letícia Moura,938.142.567-19,PJ,Inadimplente,4711.05,2024-10-31
+Pedro Henrique Silveira,024.869.137-69,PJ,Cancelado,15600.19,2023-04-08
+Caroline Peixoto,451.809.673-84,CLT,Cancelado,17238.92,2024-02-19
+Anthony Carvalho,987.265.104-30,PJ,Ativo,11034.2,2022-07-12
+Sophia Barros,301.964.825-42,PJ,Ativo,13390.62,2025-01-30
+Marcos Vinicius Cardoso,524.678.039-29,CLT,Ativo,789.78,2022-09-17
+Sofia Araújo,047.936.852-00,PJ,Inadimplente,6813.54,2023-09-03
+João Lucas Cardoso,452.736.901-61,PJ,Cancelado,1521.78,2025-04-09
+Pedro Henrique Novaes,578.163.0,Estágio,Inadimplente,2716.16,2024-10-24
+Gabriela Caldeira,124.780.935-88,CLT,Cancelado,9241.37,2023-09-02
+Otávio Nunes,198.752.306-77,Freelancer,Inadimplente,12076.49,2023-08-09
+Vitor Gabriel Azevedo,403.825.619-70,Estágio,Inadimplente,4820.22,2025-01-11
+Maria Julia Ferreira,086.923.541-98,CLT,Inadimplente,15772.93,2025-05-30
+Breno da Paz,584.769.201-30,Freelancer,Cancelado,13045.14,2024-11-09
+Davi Luiz Ribeiro,408.795.326-29,CLT,Ativo,19972.44,2024-02-13
+Carolina Farias,958.640.23,Estágio,Cancelado,13878.9,2024-04-14
+Raul Rocha,982.540.613-51,Estágio,Inadimplente,18239.17,2024-10-29
+Stella Souza,318.470.926-40,CLT,Ativo,6781.18,2024-03-10
+Gustavo Henrique Costa,415.620.983-06,PJ,Ativo,2960.74,2024-12-27
+Kevin Cunha,061.579.423-80,Freelancer,Cancelado,19895.24,2023-01-25
+Srta. Ana Sophia da Rosa,623.980.157-77,Freelancer,Cancelado,10358.25,2023-04-05
+Levi Rodrigues,213.974.650-34,Estágio,Ativo,15965.37,2023-10-08
+Marcelo Rocha,461.852.079-58,CLT,Inadimplente,13192.87,2023-05-21
+Miguel Azevedo,610.753.984-01,PJ,Cancelado,9305.32,2023-04-04
+Laura da Mota,635.407.891-20,PJ,Cancelado,7109.17,2025-04-18
+Pedro Henrique das Neves,340.172.869-50,Estágio,Cancelado,8611.8,2023-10-09
+Sra. Isabel Duarte,869.741.032-04,CLT,Cancelado,8821.9,2024-01-22
+Bárbara Campos,729.365.180-59,Freelancer,Cancelado,19095.05,2024-01-02
+Dra. Rebeca Carvalho,621.89,Estágio,Ativo,2278.88,2023-06-25
+Fernanda Rodrigues,108.247.956-01,CLT,Ativo,8921.59,2025-03-28
+Maria Cecília Rocha,215.984.673-28,Freelancer,Ativo,11349.23,2023-03-25
+Daniela da Conceição,309.761.248-31,Freelancer,Inadimplente,2883.51,2024-12-31
+Luigi Caldeira,286.497.530-00,Freelancer,Inadimplente,18852.03,2022-11-28
+Pedro Lucas Alves,318.590.726-40,Estágio,Inadimplente,1503.2,2023-08-04
+Luiz Otávio Sales,497.238.016-04,Freelancer,Inadimplente,6592.75,2022-06-28
+Lara Ribeiro,908.274.351-50,CLT,Inadimplente,10394.54,2024-12-23
+Alícia Rocha,471.930.682-96,PJ,Inadimplente,9902.69,2022-11-02
+Maria Clara Gonçalves,048.326.751-17,CLT,Cancelado,16984.78,2024-09-30
+Srta. Maria Julia Moura,981.724.053-32,Freelancer,Ativo,15370.81,2023-04-09
+Nicolas Pires,746.189,PJ,Cancelado,16980.53,2023-02-16
+Srta. Nicole Rodrigues,916.508.273-77,CLT,Inadimplente,18617.14,2024-06-02
+Beatriz Campos,601.485.9,Freelancer,Ativo,4018.11,2023-08-20
+Camila Viana,932.760.541-16,Freelancer,Cancelado,7344.96,2024-10-08
+Isabelly Moura,214.360.987-69,PJ,Ativo,11543.26,2023-03-30
+Manuela Barros,981.263.745-19,Estágio,Ativo,3266.56,2023-07-01
+Maria Julia Dias,986.527.310-12,CLT,Ativo,15049.18,2024-04-04
+Pietro Rodrigues,852.490.167-58,PJ,Cancelado,8686.73,2023-03-12
+Bruna Porto,865.703.912-59,Freelancer,Ativo,7716.04,2022-10-22
+Maria Cecília Fogaça,714.695.328-91,Freelancer,Inadimplente,12126.36,2024-09-01
+João Felipe Moura,970.548.632-83,CLT,Ativo,3569.49,2025-02-10
+Gustavo Henrique da Cunha,217.069.438-22,CLT,Inadimplente,2090.84,2025-05-27
+Pedro Henrique Cardoso,104.539.627-34,Estágio,Inadimplente,8768.29,2023-12-06
+Benício da Cruz,371.026.594-07,Estágio,Cancelado,5826.75,2023-11-03
+Maria Cecília Melo,619.472.038-78,CLT,Cancelado,8883.32,2024-07-08
+Mariana da Costa,275.349.860-10,Freelancer,Inadimplente,13730.48,2022-12-08
+Vitor Hugo Silveira,318.692.745-55,Estágio,Inadimplente,13509.08,2024-05-24
+Diego Duarte,618.924.503-05,CLT,Ativo,8207.64,2023-10-17
+Enzo Jesus,457.826.091-76,CLT,Ativo,4486.25,2023-04-07
+Ana Luiza Fogaça,753.219.068-40,PJ,Ativo,15401.14,2024-04-14
+Gabriel Caldeira,581.906.473-93,Freelancer,Cancelado,2839.69,2023-08-03
+Maria Alice Farias,680.957.432-83,Estágio,Inadimplente,8897.77,2022-10-27
+Maria Sophia Souza,064.913.278-50,PJ,Cancelado,10885.36,2023-11-24
+Theo Lopes,290.564.183-51,PJ,Inadimplente,11395.11,2023-09-20
+Leonardo Melo,917.634.825-37,Freelancer,Ativo,8242.89,2022-09-26
+Diego Almeida,563.170.829-95,CLT,Cancelado,865.46,2023-06-11
+Diogo Vieira,425.193.768-64,CLT,Cancelado,11727.3,2023-03-26
+Daniel Silva,960.713.254-80,Estágio,Inadimplente,12982.76,2025-01-27
+Elisa Lima,598.602.413-33,Freelancer,Ativo,8398.13,2023-10-19
+Luiz Gustavo Santos,962.431.750-06,Freelancer,Ativo,16125.78,2022-09-01
+Maysa Ribeiro,803.645.972-83,Estágio,Inadimplente,18435.51,2023-03-02
+Srta. Maria Luiza Jesus,178.653.924-19,CLT,Cancelado,16967.45,2024-10-16
+Joana Monteiro,928.715.604-20,PJ,Cancelado,11982.99,2024-06-02
+André Lopes,257.694.830-83,CLT,Cancelado,17475.23,2022-07-24
+Raul Alves,592.081.743-79,Freelancer,Ativo,6994.84,2022-08-02
+Bryan Melo,736.081.259-30,PJ,Ativo,10454.42,2023-12-21
+Emilly Pereira,794.132.860-78,CLT,Inadimplente,10444.07,2025-04-15
+Isabella Ramos,297.3,Freelancer,Cancelado,14683.89,2025-03-23
+Bryan da Costa,284.769.305-00,PJ,Ativo,2504.69,2024-03-19
+Enzo Almeida,802.591.674-01,Freelancer,Ativo,3883.23,2023-11-21
+Dr. Luiz Miguel Martins,405.716.892-30,PJ,Inadimplente,1969.39,2024-01-26
+Ana Lívia da Costa,351.480.926-70,Estágio,Cancelado,15211.69,2025-05-05
+Luna Silva,068.795.132-12,Estágio,Inadimplente,18521.01,2023-10-08
+Yago Silva,087.416.359-57,Freelancer,Inadimplente,6664.71,2023-05-15
+Henrique Nogueira,947.508.162-30,Estágio,Ativo,9643.96,2022-06-30
+Dr. Kaique Melo,512.096.374-99,Freelancer,Cancelado,12032.69,2022-06-16
+Bianca Alves,048.679.235-83,Freelancer,Inadimplente,1946.72,2023-07-20
+Thiago Viana,419.235.807-79,Estágio,Cancelado,1233.34,2023-09-16
+Paulo Alves,935.410.682-05,Freelancer,Cancelado,1996.25,2025-02-09
+Pedro Miguel Fogaça,467.895.130-00,CLT,Inadimplente,12084.56,2025-01-16
+Giovanna Freitas,536.491.807-66,Estágio,Cancelado,11816.42,2023-09-11
+Bianca Cunha,451.976.382-73,CLT,Cancelado,18226.47,2024-03-09
+Leandro Castro,815.296.370-40,PJ,Cancelado,12297.61,2022-07-24
+Emilly Araújo,653.701.928-12,PJ,Ativo,9285.2,2023-10-10
+Dr. Yuri Oliveira,463.298.501-51,Freelancer,Inadimplente,2144.42,2024-03-16
+Vitória Melo,531.980.276-59,PJ,Ativo,5331.0,2024-06-08
+Isis Moreira,749.380.162-22,Estágio,Cancelado,10719.34,2024-01-02
+Yago Teixeira,894.506.327-74,PJ,Cancelado,7770.61,2025-02-04
+Dr. Vicente Dias,167.983.524-64,Freelancer,Cancelado,8471.0,2024-05-21
+Alexia Barros,730,Freelancer,Inadimplente,12158.77,2023-04-21
+Enzo Campos,426.517.089-76,Freelancer,Ativo,6928.97,2022-07-28
+Sophie Rocha,716.093.452-07,Estágio,Cancelado,5413.92,2024-09-21
+Sra. Maitê Cardoso,196.507.428-67,PJ,Cancelado,2089.29,2024-09-04
+Rafaela Nunes,356.194.720-43,PJ,Cancelado,6549.52,2022-10-06
+João Guilherme Freitas,671.209.384-87,Estágio,Ativo,12103.3,2024-04-06
+Lucas Duarte,810.274.659-94,CLT,Cancelado,11398.98,2024-07-19
+Benício Moreira,041.659.728-94,Freelancer,Ativo,13567.27,2022-08-17
+Dr. Luiz Otávio Carvalho,289.703.456-47,CLT,Inadimplente,13573.89,2024-09-26
+Srta. Manuela Pinto,904.183.527-04,Freelancer,Ativo,7570.65,2023-11-03
+Sra. Larissa Barbosa,724.389.,PJ,Ativo,7163.78,2023-08-17
+Bryan Nunes,243.061.987-31,Estágio,Ativo,4917.59,2023-10-06
+João Pedro Pereira,309.274,PJ,Ativo,2004.72,2025-05-08
+Sr. Luiz Felipe Martins,359.076.284-56,CLT,Inadimplente,15532.06,2022-08-28
+Mariana Pereira,938.261.504-06,CLT,Inadimplente,7066.91,2022-08-19
+Dr. Davi Lucca Rocha,023.167.485-62,PJ,Inadimplente,7846.04,2023-06-15

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>upload arquivo</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Enviar Arquivos</h1>
+    <br>
+      {% with messages = get_flashed_messages(with_categories = true)%}
+          {% if messages %}
+              <ul class="flashs">
+                  {% for category,message in messages %}
+                      <li class="flash {{category}}">{{ message }}</li>
+                  {% endfor %}
+              </ul>
+          {% endif %}
+      {% endwith %}
+
+    
+      <form method="POST" enctype="multipart/form-data">
+          <input type="file" name = "file" multiple>
+          <br>
+          <button id="enviar" type="submit">Enviar Arquivo</button>
+      </form>
+    </div>
+      <br>
+        <a href="{{ url_for('home') }}" class="btn">voltar</a>
+</body>
+
+<style>
+
+#enviar{
+  margin-top: 30px;
+    width: 150px;
+    padding: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    border: none;
+    background-color: #139b13;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+#enviar:hover{
+  background-color: #318134;
+}
+h1 {
+    color: #333;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.container {
+    display: inline-block;
+    padding: 50px;
+
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+    .flashes {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.flash {
+  padding: 12px 20px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  color: rgb(20, 3, 3);
+  list-style: none;
+}
+
+.flash.success {
+  color: #4CAF50; /* verde */
+}
+
+.flash.error {
+  color: #f44336; /* vermelho */
+}
+
+.flash.warning {
+  color: #ff9800; /* laranja */
+}
+
+.btn {
+    display: block;
+    width: 250px;
+    margin: 15px auto;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    background-color: #af2525;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn:hover {
+    background-color: #811414;
+}
+</style>
+</html>
